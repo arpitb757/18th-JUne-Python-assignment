@@ -1,1 +1,1 @@
-# 18th-JUne-Python-assignment
+# 18th-June-Python-assignment
